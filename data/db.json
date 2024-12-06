@@ -1,0 +1,19 @@
+{
+  "itmes": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "new"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "coding"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "Tutorial videos"
+    }
+  ]
+}
